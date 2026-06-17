@@ -1,4 +1,4 @@
-# Developing-RAG-based-Intelligent-System-for-Customer-Service
+# Developing-RAG-based-Intelligent-System
 
 
 -Setting model cost per token (used two models: Qwen 3.5 & Llama 3.3)
